@@ -31,10 +31,10 @@ logo = """🔥                          \033[1;36m𓆰𓃮𓆪                  
                                                             \033[1;96m 𝐓
  \x1b[1;97m===========================================================
  \033[1;37m[*] FOUNDER     : \033[1;36mINDRA X RAJ
- \033[1;37m[*] MAKER          : \033[1;36mABHI THAKUR
- \033[1;37m[*] STATUS         : \033[1;91mFREE
- \033[1;37m[*] RULEX           : SOLAR SQUAD RULEX
- \033[1;37m[*] TOOL             : ALL TYPE ENCODEDE
+ \033[1;37m[*] MAKER       : \033[1;36mABHI THAKUR
+ \033[1;37m[*] STATUS      : \033[1;91mFREE
+ \033[1;37m[*] RULEX       : SOLAR SQUAD RULEX
+ \033[1;37m[*] TOOL        : ALL TYPE ENCODEDE
  \x1b[1;97m[*]=========================================================="""
 
 def load(word):
