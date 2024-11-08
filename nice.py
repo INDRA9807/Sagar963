@@ -18,7 +18,7 @@ def run(z):
         time.sleep(0.06)
 run(' \x1b[1;92m[\x1b[1;91m•\x1b[1;92m]\x1b[1;97m JOIN SOLAR SQUAD RULEX FB GROUP\x1b[1;96m.......')
 time.sleep(0.8)
-os.system('xdg-open https://facebook.com/groups/2028679497564691/)
+os.system('xdg-open https://facebook.com/groups/2028679497564691/')
 os.system('clear')
 logo = """🔥                          \033[1;36m𓆰𓃮𓆪                         🔥              
    _____ _____ _____    _____  _    _ _      ________   __
